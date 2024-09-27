@@ -23,9 +23,9 @@ const data = new Map();
 
 
 const sansar = new Discord.Client();
-sansar.login(process.MTI4OTI3MjgwOTU0NTI3MzQ0Nw.GyrbNJ.yTRLiTdwwihgmJbQbLqeYxGSJYdfILevjQiB-8)
+sansar.login(process.MTI4OTI3MjgwOTU0NTI3MzQ0Nw.GvF4b0.0Nkf-V068jDvAtFAbkylwcCfcKA-dbEyRwiwYY)
 const sansar2 = new Discord.Client();
-sansar2.login(process.MTI4OTI3MjgwOTU0NTI3MzQ0Nw.GJDn-3.7_Ukrbwzikqk4mEkUoRGmggFh4WZUoCG_sGliA)
+sansar2.login(process.MTI4OTI3MjgwOTU0NTI3MzQ0Nw.GvF4b0.0Nkf-V068jDvAtFAbkylwcCfcKA-dbEyRwiwYY)
 
 
 sansar.on("message", async msg => {
