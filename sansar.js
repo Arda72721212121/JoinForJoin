@@ -23,7 +23,7 @@ const data = new Map();
 
 
 const sansar = new Discord.Client();
-sansar.login(process.MTI4OTI3MjgwOTU0NTI3MzQ0Nw.GJDn-3.7_Ukrbwzikqk4mEkUoRGmggFh4WZUoCG_sGliA)
+sansar.login(process.MTI4OTI3MjgwOTU0NTI3MzQ0Nw.GyrbNJ.yTRLiTdwwihgmJbQbLqeYxGSJYdfILevjQiB-8)
 const sansar2 = new Discord.Client();
 sansar2.login(process.MTI4OTI3MjgwOTU0NTI3MzQ0Nw.GJDn-3.7_Ukrbwzikqk4mEkUoRGmggFh4WZUoCG_sGliA)
 
